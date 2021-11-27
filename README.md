@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-<div align=center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGymYJ)](https://hits.seeyoufarm.com) 
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-
-</div>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GymYJ)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GymYJ&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=djigfox)](https://solved.ac/djigfox)
